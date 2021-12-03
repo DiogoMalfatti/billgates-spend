@@ -27,6 +27,6 @@ export default {
 .containerFooter__footer__h2 {
   font-size: 20px;
   margin-top: 30px;
-  margin-left: 250px;
+  padding-left: 60px;
 }
 </style>
