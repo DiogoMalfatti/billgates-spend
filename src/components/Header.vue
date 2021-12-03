@@ -23,10 +23,11 @@ export default {
   width: 980px;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 .containerHeader__header__h1 {
   font-size: 30px;
   margin-top: 30px;
-  padding-left: 60px;
+  padding-left: 50px;
 }
 </style>

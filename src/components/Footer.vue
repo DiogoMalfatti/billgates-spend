@@ -1,7 +1,7 @@
 <template>
   <div class="containerFooter">
     <footer class="containerFooter__footer">
-      <h1 class="containerFooter__footer__h2">Made with ❤ by Diogo Malfatti</h1>
+      <h2 class="containerFooter__footer__h2">Made with ❤ by Diogo Malfatti</h2>
     </footer>
   </div>
 </template>
@@ -27,6 +27,6 @@ export default {
 .containerFooter__footer__h2 {
   font-size: 20px;
   margin-top: 30px;
-  padding-left: 60px;
+  padding-left: 210px;
 }
 </style>
