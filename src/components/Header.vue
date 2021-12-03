@@ -27,6 +27,6 @@ export default {
 .containerHeader__header__h1 {
   font-size: 30px;
   margin-top: 30px;
-  padding-left: 50px;
+  padding-left: 60px;
 }
 </style>

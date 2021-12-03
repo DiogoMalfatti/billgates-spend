@@ -10,7 +10,7 @@ export default {
   computed: {
     // eslint-disable-next-line vue/return-in-computed-property
     spend() {
-      return this.$store.state.spend
+      return this.$store.getters.getSpend
     },
   },
 }
